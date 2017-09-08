@@ -42,7 +42,7 @@
 ## 本地开发
 `clone` `git` 仓库代码，根目录下运行`npm i`安装依赖包，本地开发直接运行`gulp`命令，运行`gulp build`正式发布
 
-##相关技术文档
+## 相关技术文档
 
 * [https://react-guide.github.io/react-router-cn/](https://react-guide.github.io/react-router-cn/)
 * [https://segmentfault.com/a/1190000002793786](https://segmentfault.com/a/1190000002793786)
